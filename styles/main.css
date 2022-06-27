@@ -177,6 +177,10 @@ body {
   align-items: center;
 }
 
+.header-right-text {
+  margin-left: 60px;
+}
+
 .header-right-h2 {
   font-family: "Raleway";
   font-style: normal;
